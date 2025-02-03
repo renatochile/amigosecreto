@@ -27,3 +27,6 @@ Esta aplicación web facilita la organización de sorteos de amigo secreto. Perm
 ## Autores del proyecto
 
 *   [Renato Troncoso](https://github.com/renatochile)
+
+*   
+![captura](https://github.com/user-attachments/assets/d8df2eef-74de-4c26-b6aa-c633c328122e)
